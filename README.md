@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# renewal1
+💉'GC녹십자아이메드' 사이트를 리뉴얼했습니다.<br>
+: 처음으로 제작한 웹사이트라서 꽤 긴 시간을 들여서 작업했습니다.<br>
+우선 현 사이트는 남녀노소, 나이불문 다양한 사용자가 이용하기 때문에<br>
+전 국민이 편리하게 이용하는 국민건강보험공단 사이트의 디자인을 참고하여 개발했습니다.<br>
+빠른 정보취득을 위한 검색창과 퀵메뉴, 탭메뉴를 구성하고 아이콘을 많이 배치해 빠른 의미전달을 돕고자 했습니다.<br>
+부드럽고 깔끔한 이미지를 주기 위해 둥근 테두리를 사용하고 로고의 색상을 가져와 통일감을 주었습니다.<br>
+<br>
 
-You can use the [editor on GitHub](https://github.com/WestSilver24/renewal1_mobile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+기획/디자인/코딩 : 개인작업100%
+작업기간 : 15일
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+바로가기! ➡ https://seoeuncho.github.io/renewal1/
 
-### Markdown
+모바일버전 : https://seoeuncho.github.io/renewal1_mobile/ <br>
+(반응형을 공부하기 전, 먼저 모바일에 익숙해지기 위해 모바일 버전으로만 만든 사이트입니다.<br>
+윈도우 창 너비를 최대한으로 줄여서 확인해주세요🙏)<br><br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WestSilver24/renewal1_mobile/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+(디자인 레퍼런스 사이트) <br>
+국민건강보험공단 https://www.nhis.or.kr/
