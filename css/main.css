@@ -6,11 +6,11 @@
 .logo a{display:block; height:23px; text-indent:-9999px;
           background:url(../img/m_logo.png) no-repeat 0 0/auto 100%;}
 
-.btnSearch{width:53px; height:53px; position:absolute; top:0; right:60px;
+.btnSearch{width:53px; height:53px; position:fixed; top:0; right:60px;
               text-indent:-9999px; z-index:2;
               background-image:url(../img/ico_search.png);}
 
-.btnMenu{height:35px; position:absolute; top:0; right:0;
+.btnMenu{height:35px; position:fixed; top:0; right:0;
              padding:18px 15.5px 0; z-index:3;}
 .btnMenu span{display: block; text-indent:-9999px;
                     width:22px; height:2px; background:#fff;
@@ -19,7 +19,7 @@
 .btnMenu::after{content:""; display: block; width:22px; height:2px; background:#fff;}
 
 .btns .btnBg{display: block; width:203px; height:222px; z-index:1;
-                position:absolute; top:-15px; right:0;
+                position:fixed; top:-15px; right:0;
                 background:url(../img/btn_bg.png) no-repeat right center;}
 
 /*메인슬라이더영역*/
