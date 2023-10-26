@@ -12,8 +12,8 @@
 
 - 작업 기간 : 1일
 
-- Mobile Demo : [Mobile-Site](https://seoeuncho.github.io/renewal1_mobile/)
 - Web Demo : [HTML-Site](https://seoeuncho.github.io/renewal1/index.html), [Code](https://github.com/SeoeunCho/renewal1)
+- Mobile Demo : [Mobile-Site](https://seoeuncho.github.io/renewal1_mobile/)
   <br>반응형을 공부하기 전, 먼저 모바일에 익숙해지기 위해 모바일 버전으로만 만든 사이트입니다. 윈도우 창 너비를 최소한으로 줄여서 확인해주세요🙏
 <br>
 
