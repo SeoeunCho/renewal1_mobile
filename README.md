@@ -11,7 +11,6 @@
 <br>
 
 - 작업 기간 : 1일
-
 - Web Demo : [HTML-Site](https://seoeuncho.github.io/renewal1/index.html), [Code](https://github.com/SeoeunCho/renewal1)
 - Mobile Demo : [Mobile-Site](https://seoeuncho.github.io/renewal1_mobile/)
   <br>반응형을 공부하기 전, 먼저 모바일에 익숙해지기 위해 모바일 버전으로만 만든 사이트입니다. 윈도우 창 너비를 최소한으로 줄여서 확인해주세요🙏
@@ -21,8 +20,9 @@
 ## 정보
 - 이 프로젝트는 [GC녹십자아이메드](https://www.gcimed.com/main)사이트를 기반으로 제작하였습니다.
 - 디자인은 [국민건강보험공단](https://www.nhis.or.kr/)사이트를 참고했습니다.
-- HTML, CSS 작업에 익숙해지기 위해 이 프로젝트를 시작했습니다.
-- 이미지 슬라이드 애니메이션에 jQuery라이브러리 bxslider를 사용하였습니다.
+- HTML, CSS, jQuery 에 익숙해지기 위해 이 프로젝트를 시작했습니다.
+- 메인 이미지 슬라이드 애니메이션에 jQuery라이브러리 bxslider를 사용하였습니다.
+- jQuery로 사이드메뉴/아코디언메뉴를 구현했습니다.
 <br>
 
 
